@@ -17,9 +17,6 @@ To use these settings in your own VS Code editor, follow these steps:
 ## Contents
 The settings.json file in this repository includes various settings and configurations.
 
-## Contributions
-Contributions to this repository are welcome! If you have any suggestions, improvements, or additional settings that you find useful, feel free to create a pull request. Let's collaborate and share our configurations to create an even better development experience for everyone!
-
 ## License
 This repository is licensed under the [MIT License](https://choosealicense.com/licenses/mit). Feel free to use, modify, and distribute the contents of this repository in accordance with the terms of the license.
 
